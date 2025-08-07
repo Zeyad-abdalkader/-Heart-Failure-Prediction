@@ -2,7 +2,7 @@
 This project is a machine learning application for predicting heart failure based on patients' clinical data. Using a dataset of 12 medical features, the system applies various classification algorithms to assess the risk of death due to heart failure.
 
 # Dataset
-Source:https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data<br>
+Source: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data<br>
 Features: **12** clinical features<br>
 Target: **DEATH_EVENT**<br>
 
@@ -20,3 +20,6 @@ Achieved **85% accuracy**, making it the most reliable model for predicting hear
 
 # Model Gradio view
 ![WhatsApp Image 2025-08-07 at 05 29 46_d286864d](https://github.com/user-attachments/assets/b2fb4b79-0270-4c30-a601-e75a8a51ecbb)
+
+# Streamlit Web App
+This project includes a Streamlit-powered web application that allows users to enter clinical details and get real-time predictions for heart failure risk.
