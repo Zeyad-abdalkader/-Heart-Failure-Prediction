@@ -17,3 +17,6 @@ After training and evaluating multiple machine learning models on the heart fail
 Best Performing Model: **Random Forest**.<br>
 Achieved **85% accuracy**, making it the most reliable model for predicting heart failure in this dataset.<br>
 **SVM** and **XGBoost** also performed well with **83% accuracy**.
+
+# Model Gradio view
+![WhatsApp Image 2025-08-07 at 05 29 46_d286864d](https://github.com/user-attachments/assets/b2fb4b79-0270-4c30-a601-e75a8a51ecbb)
